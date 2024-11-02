@@ -4,7 +4,7 @@
 This project implements a Smart Traffic Light Control System using Reinforcement Learning techniques to enhance urban mobility.
 
 ## Video Demonstration
-Watch the video showcasing the project: [Watch the video here!](video-recording-showcasing-proj\my recording.mp4)
+Watch the video showcasing the project: [Watch the video here!](/smart-city-system/video-recording-showcasing-proj/my%20recording.mp4)
 
 ## Code
 The code for this project can be found in the [smart-city-system/code/](smart-city-system/code/) directory.
