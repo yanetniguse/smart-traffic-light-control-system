@@ -7,7 +7,9 @@ This project implements a Smart Traffic Light Control System using Reinforcement
 Watch the video showcasing the project: [Watch the video here!](video-recording-showcasing-proj\my recording.mp4)
 
 ## Code
-The code for this project can be found in the [smart-city-system\code](smart-city-system\code) directory.
+The code for this project can be found in the [smart-traffic-light-control-system
+\code](smart-traffic-light-control-system
+\code) directory.
 
 ## Unique Approach
 While many explore similar technologies, this project offers a unique perspective on optimizing traffic control systems.
